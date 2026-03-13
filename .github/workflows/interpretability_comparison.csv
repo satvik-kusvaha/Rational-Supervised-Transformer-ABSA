@@ -1,0 +1,5 @@
+Input Text,Baseline Prediction,Rationale-Supervised Prediction,Extracted Rationale Keywords
+The screen is beautiful but the battery life is terrible.,positive,negative,
+"Oh great, another update that breaks everything.",negative,positive,
+The service wasn’t bad.,positive,negative,
+"The camera is good, but the speakers are awful.",neutral,negative,
